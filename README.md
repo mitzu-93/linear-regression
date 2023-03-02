@@ -1,1 +1,1 @@
-This project went through some basic linear regression ideas and concepts. 
+# ice-cream-sales-temp
